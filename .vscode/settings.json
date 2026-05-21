@@ -1,7 +1,7 @@
 {
-    "snyk.features.openSourceEnabled": false,
-    "snyk.features.codeSecurityEnabled": true,
-    "snyk.features.codeQualityEnabled": true,
+    "snyk.features.openSourceSecurity": false,
+    "snyk.features.codeSecurity": true,
+    "snyk.features.iacEnabled": false,
     "snyk.advanced.organization": "c2d6db9b-d446-4c44-bfaf-80f4668e02b6",
     "snyk.advanced.autoSelectOrganization": true
 }
